@@ -2,7 +2,7 @@
 ## This Project is made in tailwind css and vite, 
 ## This project cointains Microsoft Landing page.
 ## Demo
-### Project Demo is available on https://codingcell.github.io/Microsoft/
+### Project Demo is available on https://enrituraj.github.io/Microsoft/
 ### This Project is made for **Laptop** and **Computer** screen size.
 ![This is an image](https://i.ibb.co/cQxrdXj/Web-capture-15-2-2022-12581-codingcell-github-io.jpg)
 ### About Microsoft
